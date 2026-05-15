@@ -105,7 +105,7 @@ print("✓ Todo listo para hacer ciencia!")
 |---------|------|---------|--------|
 | 1 | ¿Por qué los gráficos importan en ciencia? | `notas.md` | ✅ |
 | 2 | Herramientas: Python, Matplotlib, Seaborn | `verificar_entorno.py` | ✅ |
-| 3 | Primer gráfico de barras científico | `grafico_barras.py` | 🔄 |
+| 3 | Primer gráfico de barras científico | `grafico_barras.py` | ✅ |
 
 ### Módulo 2 — Bioestadística Visual 🔒
 

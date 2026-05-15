@@ -107,11 +107,11 @@ print("✓ Todo listo para hacer ciencia!")
 | 2 | Herramientas: Python, Matplotlib, Seaborn | `verificar_entorno.py` | ✅ |
 | 3 | Primer gráfico de barras científico | `grafico_barras.py` | ✅ |
 
-### Módulo 2 — Bioestadística Visual 🔒
+### Módulo 2 — Bioestadística Visual ⌚
 
 | Lección | Tema | Estado |
 |---------|------|--------|
-| 4 | Boxplot: la caja que lo dice todo | 🔒 |
+| 4 | Boxplot: la caja que lo dice todo | ✅ |
 | 5 | Gráfico de dispersión y correlación | 🔒 |
 | 6 | Barras de error e IC 95% | 🔒 |
 
@@ -239,7 +239,7 @@ datos_brutos.csv
 
 ```
 Módulo 1  ████████████████████  100% ✅
-Módulo 2  ░░░░░░░░░░░░░░░░░░░░    0% 🔒
+Módulo 2  █████░░░░░░░░░░░░░░░    30% ⌚
 Módulo 3  ░░░░░░░░░░░░░░░░░░░░    0% 🔒
 Módulo 4  ░░░░░░░░░░░░░░░░░░░░    0% 🔒
 

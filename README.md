@@ -1,5 +1,12 @@
 # GraphMaster
-Aprendiendo a crear gráficos de alta calidad para artículos. Desde cero, con herramientas open source, paso a paso.
+
+> Aprendiendo a crear gráficos de alta calidad para artículos de investigación.  
+> Desde cero, con herramientas open source, paso a paso.
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5643--5909-brightgreen)](https://orcid.org/0009-0000-5643-5909)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rubén%20López-blue)](https://www.linkedin.com/in/ruben-lopez-hernandez-39a0231a8/)
+[![Máster](https://img.shields.io/badge/Máster-Bioinformática%20VIU%202026--2027-orange)]()
 
 # 📊 Scientific Graphics for Research Publications
 
@@ -260,3 +267,7 @@ XP total acumulado: 290 / 1440
 ---
 
 *Última actualización: Mayo 2026*
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Rubén López Hernández | ORCID: 0009-0000-5643-5909

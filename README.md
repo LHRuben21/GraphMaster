@@ -6,7 +6,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5643--5909-brightgreen)](https://orcid.org/0009-0000-5643-5909)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rubén%20López-blue)](https://www.linkedin.com/in/ruben-lopez-hernandez-39a0231a8/)
-[![Máster](https://img.shields.io/badge/Máster-Bioinformática%20VIU%202026--2027-orange)]()
+[![Máster](https://img.shields.io/badge/Máster-Bioinformática%20VIU%202026--2027-orange)](https://www.universidadviu.com/int/maestria-bioinformatica?_gl=1*3pbk3n*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwq6DQBhBVEiwA4ZD5XMFdeuqBfMcYMPrnxz5DRKze8nyw1S9u48A_xzDNCJ2MJRUTxE3gQBoCoFQQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADp9oYA5NMUO5FfdkXewgVC5SRJN7)
 
 # 📊 Scientific Graphics for Research Publications
 
